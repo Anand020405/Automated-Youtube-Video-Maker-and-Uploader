@@ -2,7 +2,7 @@ import pyautogui
 import time
 import webbrowser
 
-youtube_channel_link = "https://studio.youtube.com/channel/UCbmUcKbCXwPbDlWyon-xqUg"
+youtube_channel_link = "YOUR-CHANNEL-LINK"
 
 
 def upload_to_youtube(link = youtube_channel_link):
